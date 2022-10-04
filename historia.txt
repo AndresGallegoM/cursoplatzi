@@ -2,4 +2,4 @@ Esta es la historia de un man llamado Andrés, nacido en colombia.
 
 Andrés esta aprendiendo a usar git y le gusta los postres.
 
-El es tremendo pana y hender tambien.
+El es tremendo pana y hender tambien, pero el tambien le gusta el mondongo.
